@@ -1,0 +1,9 @@
+etiqueta	definicion_etiqueta
+E0	Bolo cruza la mandíbula
+E1	Comienzo del desplazamiento del Hioides
+E2	Desplazamiento máximo del hioides
+E3	Hioides vuelve a reposo
+E4	Cierre del vestíbulo laríngeo
+E5	Reapertura del vestíbulo laríngeo
+E6	Apertura de EES
+E7	Cierre del EES

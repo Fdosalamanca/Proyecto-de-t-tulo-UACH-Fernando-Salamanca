@@ -1,0 +1,2 @@
+sorbo	i_deg	f_deg
+1	22.25	40.85

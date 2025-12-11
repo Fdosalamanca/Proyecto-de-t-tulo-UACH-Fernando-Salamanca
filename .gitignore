@@ -1,0 +1,12 @@
+# Audios y señales
+*.wav
+*.mp3
+*.flac
+
+# Datos pesados
+*.npz
+*.npy
+*.pkl
+*.mat
+*.h5
+
